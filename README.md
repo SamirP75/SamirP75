@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning precalculas and python
 - 💞️ I’m looking to collaborate on a 2d game that I am working on
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: Skbidi toilet will be mine!
 
 <!---
 SamirP75/SamirP75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
